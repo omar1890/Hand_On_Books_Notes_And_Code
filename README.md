@@ -1,1 +1,3 @@
 # Hand_On_Books_Notes_And_Code
+
+## I will share here some of my notes and code from series of Hands On Books in Machine Learning , Recommendations Systems , ...
